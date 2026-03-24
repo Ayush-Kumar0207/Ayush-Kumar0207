@@ -1,6 +1,6 @@
 <div align="center">
 
-![Ayush Kumar Banner](https://i.ibb.co/y223YKs/Chat-GPT-Image-Mar-24-2026-04-53-10-PM.png)
+![Ayush Kumar Banner](https://i.ibb.co/y223YKs/Chat-GPT-Image-Mar-24-2026-04-53-10-PM.png?v=1)
 
 </div>
 
