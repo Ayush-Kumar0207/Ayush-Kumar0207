@@ -1,4 +1,4 @@
-![Ayush Kumar Banner](view-source:https://github.com/Ayush-Kumar0207/Ayush-Kumar0207/blob/main/ChatGPT%20Image%20Mar%2024%2C%202026%2C%2004_19_53%20PM.png)
+![Ayush Kumar Banner](https://github.com/Ayush-Kumar0207/Ayush-Kumar0207/blob/main/ChatGPT%20Image%20Mar%2024%2C%202026%2C%2004_19_53%20PM.png)
 
 # Hi there, I'm Ayush Kumar 👋
 
