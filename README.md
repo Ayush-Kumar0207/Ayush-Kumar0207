@@ -1,4 +1,4 @@
-![Banner](https://images.unsplash.com/photo-1677442d019cecf8f89d5eccc92c71faf0608b39e?w=1200&h=400&fit=crop)
+![Ayush Kumar Banner](https://files.oaiusercontent.com/file-VlTqK8vN9pL2mX7sR4tY?se=2026-03-25T00%3A00%3A00Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D3628800%2C%20immutable&rscd=attachment%3B%20filename%3D%22ChatGPT%20Image%20Mar%2024%2C%202026%2C%2004_19_53%20PM.png%22&sig=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx)
 
 # Hi there, I'm Ayush Kumar 👋
 
