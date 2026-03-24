@@ -1,4 +1,6 @@
-![Ayush Kumar Banner](https://i.ibb.co/9k2MLGzr/Chat-GPT-Image-Mar-24-2026-04-19-53-PM.png)
+<p align="center">
+  <img src="https://i.ibb.co/9k2MLGzr/Chat-GPT-Image-Mar-24-2026-04-19-53-PM.png" width="100%" />
+</p>
 
 # Hi there, I'm Ayush Kumar 👋
 
